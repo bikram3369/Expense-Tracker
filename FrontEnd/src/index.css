@@ -18,3 +18,11 @@
     overflow-x: hidden;
   }
 }
+
+/* .input-box{
+  @apply w-full flex justify-between gap-3 text-sm text-black bg-slate-200 rounded px-4 mt-3 border border-slate-200 outline-none;
+} */
+
+.btn-primary{
+  @apply w-[50%]  items-center bg-violet-600 text-white px-4 py-2 rounded hover:bg-violet-700 transition;
+}
