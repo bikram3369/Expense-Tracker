@@ -1,0 +1,18 @@
+**For the backend folder:**
+```
+node_modules/
+.env
+*.log
+uploads/
+*.xlsx
+package-lock.json
+```
+
+**For the frontend folder:**
+```
+node_modules/
+.env
+build/
+dist/
+.DS_Store
+package-lock.json
