@@ -286,7 +286,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@PixelMonk07](https://github.com/PixelMonk07)
+- GitHub: [@bikram3369](https://github.com/bikram3369)
 
 ## 🙏 Acknowledgments
 
